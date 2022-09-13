@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.top-container{
+    
+    width: 100vw;
+    height: 100vh;
+    background-color: #C3F8FF;
+    position: relative;
+}
+hr{
+    border-top: 8px dotted  #C3F8FF;
+}
+.clouds{
+    position: absolute;
+    right: 40px;
+}
+.cld{
+    position: absolute;
+    right: 500px;
+}
+
+.txt{
+    margin: auto;
+    position: absolute;
+    top: 200px;
+    left: 35%;
+    line-height: 0;
+    color: #30d1e7;
+}
+.abhitxt{
+    font-size: 80px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Ms Madi', cursive;
+}
+.pog-ram{
+    position: relative;
+    left: 100px;
+    font-size: 30px;
+    color: #66BFBF;
+    line-height: 1;
+    font-family: arial;
+   
+}
+.linkin{
+    position: relative;
+    top: 70px;
+    left: 60px;
+    text-decoration: none;
+    background-color: #58acf0;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: white;
+    font-family: arial;
+    margin: auto;
+}
+.abhi-profile{
+    position: relative;
+    left: 600px;
+    padding-top: 10px;
+
+}
+
+h2{
+    position: relative;
+    left: 635px;
+    padding-top: 10px;
+    color: #66BFBF;
+    font-size: 45px;
+    font-family: arial;
+
+}
+.font{
+    width: 50%;
+    position: relative;
+    left: 420px;
+    font-family:  arial;
+}
+.desp{
+    line-height: 2;
+    font-size: 25px;
+}
+
+
+
+
+.bottom-container{
+    background-color: aqua;
+}
